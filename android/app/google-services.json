@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "857456453019",
+    "project_id": "inscrilogin",
+    "storage_bucket": "inscrilogin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:857456453019:android:6bf480e147ad29b5546d3e",
+        "android_client_info": {
+          "package_name": "com.example.inscrilogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "857456453019-fk28hkq9c9q9qt5vo7lblh5ios1bo6c8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7f98rolAvlYMnTpk2kgaHxaoR1k3YuzM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "857456453019-fk28hkq9c9q9qt5vo7lblh5ios1bo6c8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
