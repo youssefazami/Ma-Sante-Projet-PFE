@@ -1,6 +1,7 @@
-# inscrilogin
+# Ma santé Application Mobile
 
-A new Flutter project.
+Cette Application est basé sur dart et flutter / Application des prise des rendez vous et des consultations en ligne 
+
 
 ## Getting Started
 
